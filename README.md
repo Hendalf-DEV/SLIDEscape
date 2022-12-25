@@ -126,5 +126,5 @@ SLIDEs.Config.Nav =
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![EvoDevelopment](https://i.imgur.com/w6B7TmR.png)
+![EvoDevelopment](https://i.imgur.com/IlGiTug.png)
 
