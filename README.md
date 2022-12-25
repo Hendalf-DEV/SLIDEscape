@@ -1,7 +1,7 @@
 
 # SLIDEscape
 
-SLIDEscape is simple and modern escape menu for Garry's Mod communities
+SLIDEscape is simple and pretty escape menu for Garry's Mod communities
 
 
 ## Installation
