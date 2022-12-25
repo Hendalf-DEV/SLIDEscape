@@ -3,8 +3,6 @@
 
 SLIDEscape is simple and pretty escape menu for Garry's Mod communities
 
-
-![SlidImg](https://i.imgur.com/Vrpwf7d.png)
 ![SlidGif](https://i.imgur.com/sODfuqN.gif)
 
 
