@@ -2,10 +2,7 @@ SLIDEs = SLIDEs or {}
 
 
 SLIDEs.Config = SLIDEs.Config or {}
-SLIDEs.Lang = SLIDEs.Lang or {}
 
-
-SLIDEs.Config.Lang = "ru"
 
 SLIDEs.Config.UseLogo = true
 SLIDEs.Config.Logo = "https://i.imgur.com/4RT6LMO.jpg" -- This is your logo URL. It can be whatever you want. But I reccomend using IMGUR
