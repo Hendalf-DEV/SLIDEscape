@@ -46,8 +46,8 @@ if CLIENT then
     for k, file in SortedPairs (file.Find(slidescape.."/client/*", "LUA")) do
         include(slidescape.."/client/"..file)
     end
+    
     AddCSLuaFile(slidescape.."/config/sh_config.lua")
-    AddCSLuaFile(slidescape.."/language/functions.lua")
     
     AddCSLuaFile(slidescape.."/client/cl_init.lua")
 
